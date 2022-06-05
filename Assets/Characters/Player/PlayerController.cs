@@ -102,7 +102,7 @@ public class PlayerController : MonoBehaviour
     }
 
     public void LockMovement() {
-        canMove = false;
+        canMove = true;
     }
 
     public void UnlockMovement() {
