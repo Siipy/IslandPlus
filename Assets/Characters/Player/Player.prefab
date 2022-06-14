@@ -30,7 +30,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 258559741754647426}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 2.7761836, y: -2.7093413, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -118,7 +118,7 @@ MonoBehaviour:
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Player
-  m_SplitScreenIndex: -1
+  m_SplitScreenIndex: 0
   m_Camera: {fileID: 0}
 --- !u!114 &7681735067817694059
 MonoBehaviour:
